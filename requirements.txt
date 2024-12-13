@@ -1,0 +1,13 @@
+## pip install -r requirements.txt
+streamlit==1.40.2
+langchain-community==0.3.11
+numpy==1.26.4
+transformers==4.47.0
+tiktoken==0.8.0
+protobuf==5.29.1
+chromadb==0.5.23
+langchain==0.3.11
+openai==1.57.2
+pandas==2.2.3
+
+
