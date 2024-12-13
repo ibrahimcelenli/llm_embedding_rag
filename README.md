@@ -3,9 +3,9 @@ Multilingual movie search engine based on LLM and Embedding
 
 The aim was to prevent LLM from responding to everything and to provide feedback to users with embeding and accessible data.
 
-![🚀](example.png)
+![](example.png)
 
-## 🛠️ **Features**
+## 🚀 **Features**
 
 - **Multilingual Support**: The bot responds in the same language as the user's input.
 - **Accurate Movie Information**: Utilizes **ChromaDB** for semantic search and returns relevant movie data.
